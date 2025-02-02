@@ -1,0 +1,14 @@
+{
+  "name": "flifo-travel-itinerary",
+  "version": "1.0.0",
+  "description": "A simple travel itinerary planner",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
